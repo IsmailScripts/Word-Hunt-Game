@@ -1,1 +1,7 @@
-This project was created as part of our Numerical Computing course. It focuses on optimizing gradient descent through research-based approaches. The project presents various tests and methods aimed at enhancing optimization and overcoming existing limitations. It includes Python code to validate the methodology and features plotted graphs to illustrate the results.
+This project was created as part of our Computer Organization and Assembly Language course during our third semester.
+
+Description: It is a Word Hunt game that allows the user to search for words in all four directions. If the word is found, it increases the score; otherwise, it decreases the score. When the user decides to exit the program, it writes the score to the score.txt file.
+
+How you can access it: Clone the repository. Execute the assembly file.
+
+Contributions: We welcome contributions via pull requests.
